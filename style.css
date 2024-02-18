@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .left-side {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .left-side button {
+    background-color: blue;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  
+  
+  .right-side fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .right-side legend {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .right-side form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .right-side form input[type="text"],
+  .right-side form input[type="password"] {
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .right-side form input[type="button"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+        
+  body {
+      background-image: url("picture.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+    }
