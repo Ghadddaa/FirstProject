@@ -22,7 +22,7 @@
 
                 <div class="card">
                     <div class="card-header">
-                        <h3>Formulaire d'inscrire
+                        <h3>FORMULAIRE d'inscrire
                         
                         <a href="Génie.php" class="btn btn-danger float-end">BACK</a>
                         </h3>
