@@ -21,7 +21,7 @@
 
                 <div class="card">
                     <div class="card-header">
-                        <h3>Insert data into database 
+                        <h3>Insert Data Into DataBase 
                         <a href="Génie.php" class="btn btn-danger float-end">BACK</a>
                         </h3>
                     </div>
